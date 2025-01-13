@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/C#-WEB API-FALLENQUOTES.props" />
+</Project>

@@ -1,0 +1,36 @@
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/appsettings.Development.json
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/appsettings.json
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES.staticwebassets.endpoints.json
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES.deps.json
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES.runtimeconfig.json
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES.dll
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES.pdb
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.csproj.AssemblyReference.cache
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.AssemblyInfoInputs.cache
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.AssemblyInfo.cs
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.csproj.CoreCompileInputs.cache
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.MvcApplicationPartsAssemblyInfo.cs
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.MvcApplicationPartsAssemblyInfo.cache
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/scopedcss/bundle/C#-WEB API-FALLENQUOTES.styles.css
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/staticwebassets.build.json
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/staticwebassets.development.json
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/staticwebassets.build.endpoints.json
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/staticwebassets/msbuild.C#-WEB API-FALLENQUOTES.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/staticwebassets/msbuild.C#-WEB API-FALLENQUOTES.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/staticwebassets/msbuild.build.C#-WEB API-FALLENQUOTES.props
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.C#-WEB API-FALLENQUOTES.props
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.C#-WEB API-FALLENQUOTES.props
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB A.7C37F99E.Up2Date
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.dll
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/refint/C#-WEB API-FALLENQUOTES.dll
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.pdb
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.genruntimeconfig.cache
+/Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/ref/C#-WEB API-FALLENQUOTES.dll
