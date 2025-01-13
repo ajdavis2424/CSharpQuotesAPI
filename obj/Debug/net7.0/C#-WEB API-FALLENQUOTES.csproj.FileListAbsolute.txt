@@ -34,3 +34,83 @@
 /Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.pdb
 /Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.genruntimeconfig.cache
 /Users/alexanderdavis/Desktop/C#-WEB API-FALLENQUOTES/obj/Debug/net7.0/ref/C#-WEB API-FALLENQUOTES.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/appsettings.Development.json
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES.staticwebassets.endpoints.json
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/appsettings.json
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES.deps.json
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES.runtimeconfig.json
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/C#-WEB API-FALLENQUOTES.pdb
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Azure.Core.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Azure.Identity.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Humanizer.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/System.CodeDom.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/bin/Debug/net7.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.csproj.AssemblyReference.cache
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.AssemblyInfoInputs.cache
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.AssemblyInfo.cs
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.csproj.CoreCompileInputs.cache
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.MvcApplicationPartsAssemblyInfo.cs
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.MvcApplicationPartsAssemblyInfo.cache
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.sourcelink.json
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/scopedcss/bundle/C#-WEB API-FALLENQUOTES.styles.css
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/staticwebassets.build.endpoints.json
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/staticwebassets/msbuild.C#-WEB API-FALLENQUOTES.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/staticwebassets/msbuild.C#-WEB API-FALLENQUOTES.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/staticwebassets/msbuild.build.C#-WEB API-FALLENQUOTES.props
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.C#-WEB API-FALLENQUOTES.props
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.C#-WEB API-FALLENQUOTES.props
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB A.7C37F99E.Up2Date
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/refint/C#-WEB API-FALLENQUOTES.dll
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.pdb
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/C#-WEB API-FALLENQUOTES.genruntimeconfig.cache
+/Users/alexanderdavis/Desktop/CSharp-Quotes-API/obj/Debug/net7.0/ref/C#-WEB API-FALLENQUOTES.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#-WEB API-FALLENQUOTES")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c5d95e03ca2957fa0f750bc2983a4c07b55c29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3d5216dd7e92c7682ec2d6da11be46598a814af")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#-WEB API-FALLENQUOTES")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#-WEB API-FALLENQUOTES")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,62 +1,87 @@
 //"ENGINE" class... Logic goes here
-
 using C__WEB_API_FALLENQUOTES.Models;
+using C__WEB_API_FALLENQUOTES.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace C__WEB_API_FALLENQUOTES.Services;
 
-public class QuoteService{
-  //create instance of id to track each quote add/deleted etc 
-static int availableId = 3;
+public class QuoteService
+{
+    private readonly QuoteContext _context;
 
-//Use a list to store our quotes, not a real DB -- cache
- static List<Quote>QuotesDB; 
+    // Constructor to inject database context and seed initial data if needed
+    public QuoteService(QuoteContext context)
+    {
+        _context = context;
+        // Check if any data exists, if not, seed the database
+        if (!_context.Quotes.Any())
+        {
+            SeedInitialData();
+        }
+    }
 
- //static instance- this class must not be instantiated anymore--SINGLETON
-static QuoteService(){
-  //populate DB with small data 
-  QuotesDB = new List<Quote>(){
-    new Quote{
-      Id=0, 
-    Author="John McKay, USC", 
-    Quotes= $"We didn’t tackle well today but we made up for it by not blocking."
-    },
-    new Quote{
-      Id=1, 
-    Author="Bob Devany, Nebraska", 
-    Quotes= "I don’t want to win enough to be placed on NCAA probation, I just want to win enough to warrant an investigation."
-    },
-    new Quote{
-      Id=2, 
-    Author="Erk Russell, Georgia Southern", 
-    Quotes= "At Georgia Southern, we don’t cheat. That costs money and we don’t have any."
-    },
-  };
-}
-//1. Method to get all the codes in the QuotesDB
-public static List<Quote> GetAllQuotes()=>QuotesDB;
-//2. Method to get single quote by Id
-public static Quote? Get(int Id)=>QuotesDB.FirstOrDefault(quote =>quote.Id ==Id);
+    // Initial data seeding method
+    private void SeedInitialData()
+    {
+        // populate DB with small data - same as your original list
+        var initialQuotes = new List<Quote>()
+        {
+            new Quote
+            {
+                Author = "John McKay, USC",
+                Quotes = "We didn't tackle well today but we made up for it by not blocking."
+            },
+            new Quote
+            {
+                Author = "Bob Devany, Nebraska",
+                Quotes = "I don't want to win enough to be placed on NCAA probation, I just want to win enough to warrant an investigation."
+            },
+            new Quote
+            {
+                Author = "Erk Russell, Georgia Southern",
+                Quotes = "At Georgia Southern, we don't cheat. That costs money and we don't have any."
+            },
+        };
 
-//3. Method to UPDATE(PUT) an existing quote
-public static void Update(Quote quote){
-  //get index number of quote
-  var index = QuotesDB.FindIndex(q=>q.Id==quote.Id);
-  //Quote not found? Then retun
-  if(index == -1) return;
-  //Update quote by index
-  QuotesDB[index]=quote;
-}
-//4. Method to ADD new quote
-public static void Add(Quote quote){
-  quote.Id = availableId++;
-  QuotesDB.Add(quote);
-}
-//5. Method to DELETE a quote by id
-public static void Delete(int id ){
-//get quote by id 
-var quote =Get(id);
-//check if id exists
-if(quote is null) return;
-QuotesDB.Remove(quote);
-}
+        _context.Quotes.AddRange(initialQuotes);
+        _context.SaveChanges();
+    }
+
+    //1. Method to get all the quotes in the QuotesDB
+    public async Task<List<Quote>> GetAllQuotes()
+    {
+        return await _context.Quotes.ToListAsync();
+    }
+
+    //2. Method to get single quote by Id
+    public async Task<Quote?> Get(int id)
+    {
+        return await _context.Quotes.FindAsync(id);
+    }
+
+    //3. Method to UPDATE(PUT) an existing quote
+    public async Task Update(Quote quote)
+    {
+        _context.Entry(quote).State = EntityState.Modified;
+        await _context.SaveChangesAsync();
+    }
+
+    //4. Method to ADD new quote
+    public async Task Add(Quote quote)
+    {
+        await _context.Quotes.AddAsync(quote);
+        await _context.SaveChangesAsync();
+    }
+
+    //5. Method to DELETE a quote by id
+    public async Task Delete(int id)
+    {
+        //get quote by id
+        var quote = await Get(id);
+        //check if id exists
+        if (quote is null) return;
+        
+        _context.Quotes.Remove(quote);
+        await _context.SaveChangesAsync();
+    }
 }
